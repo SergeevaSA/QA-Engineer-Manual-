@@ -9,6 +9,6 @@
 - Составление [таблицы принятия решений](https://github.com/SergeevaSA/QA-Engineer-Manual-/blob/6c8ed715c5c36440a090463a29aa42067ba2d760/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D0%B8%D1%8F_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9.xlsx "Необязательная подсказка")
 - Составление [чек-листов](https://github.com/SergeevaSA/QA-Engineer-Manual-/blob/6c8ed715c5c36440a090463a29aa42067ba2d760/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B%20%D1%8D%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.xlsx "Необязательная подсказка") на граничные значения и классы эквивалентности
 ### Тестирование API
-[Написание GET, POST, PATCH, PUT, DELETE запросов](https://apichallenges.herokuapp.com/gui/challenges/9c46e687-a089-4621-a3f0-6df2e83b9f14 "Необязательная подсказка")
+Написание [GET, POST, PATCH, PUT, DELETE запросов](https://apichallenges.herokuapp.com/gui/challenges/9c46e687-a089-4621-a3f0-6df2e83b9f14 "Необязательная подсказка")
 ### Составление SQL запросов с помощью PostgreSQL [(SELECT, JOIN, UNION)](https://github.com/SergeevaSA/QA-Engineer-Manual-/commit/6c8ed715c5c36440a090463a29aa42067ba2d760?diff=split#diff-a9066280f772de0da0abac81ced4f592cbc5c326a6901a17a1a76615a597fa6a "Необязательная подсказка")
 
